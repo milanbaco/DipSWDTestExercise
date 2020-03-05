@@ -25,3 +25,9 @@ C:\Users\tbaird\Source\Repos\DipUnitTestEx\DipTestingExercises\bin\Debug\DipTest
 C:\Users\tbaird\Source\Repos\DipUnitTestEx\DipTestingExercises\bin\Debug\DipTestingExercises.pdb
 C:\Users\tbaird\Source\Repos\DipUnitTestEx\DipTestingExercises\bin\Debug\nunit.framework.dll
 C:\Users\tbaird\Source\Repos\DipUnitTestEx\DipTestingExercises\bin\Debug\nunit.framework.xml
+C:\Users\101798665\Documents\GitHub\DipSWDTestExercise\DipTestingExercises\bin\Debug\DipTestingExercises.exe.config
+C:\Users\101798665\Documents\GitHub\DipSWDTestExercise\DipTestingExercises\bin\Debug\DipTestingExercises.exe
+C:\Users\101798665\Documents\GitHub\DipSWDTestExercise\DipTestingExercises\bin\Debug\DipTestingExercises.pdb
+C:\Users\101798665\Documents\GitHub\DipSWDTestExercise\DipTestingExercises\obj\Debug\DipTestingExercises.csprojAssemblyReference.cache
+C:\Users\101798665\Documents\GitHub\DipSWDTestExercise\DipTestingExercises\obj\Debug\DipTestingExercises.exe
+C:\Users\101798665\Documents\GitHub\DipSWDTestExercise\DipTestingExercises\obj\Debug\DipTestingExercises.pdb
